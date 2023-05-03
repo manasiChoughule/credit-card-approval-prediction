@@ -1,0 +1,2 @@
+## credit-card-approval-prediction
+So you want to apply for that credit card, BUTTTT have doubts that you will be approved or not? So, here we have an app that will predict if you would be approved for that card.
