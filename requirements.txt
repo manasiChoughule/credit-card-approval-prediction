@@ -5,4 +5,5 @@ matplotlib
 scipy
 warnings
 sklearn
+tensorflow
 -e .
